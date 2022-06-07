@@ -1,0 +1,159 @@
+.bg_contenedorPlanetas{
+    width: 100%;
+    height: 50rem;
+    background-image: url(https://img2.wallspic.com/previews/1/2/3/0/5/150321/150321-purple_and_black_galaxy_sky-x750.jpg);
+    background-size: cover;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.bg_contenedorPlanetas div{
+    width: auto;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.bg_contenedorPlanetas div .bg_linea{
+    width: 1px;
+    height: 43%;
+    background-color: #fff;
+    position: static;
+}
+.bg_contenedorPlanetas div .bg_lineaMercurio{
+    width: 1px;
+    height: 31%;
+    background-color: #fff;
+    position: static;
+}
+.bg_contenedorPlanetas div .bg_lineaVenus{
+    width: 1px;
+    height: 32%;
+    background-color: #fff;
+    position: static;
+}
+.bg_contenedorPlanetas div .bg_lineaTierra{
+    width: 1px;
+    height: 28%;
+    background-color: #fff;
+    position: static;
+}
+.bg_contenedorPlanetas div .bg_lineaMarte{
+    width: 1px;
+    height: 29%;
+    background-color: #fff;
+    position: static;
+}
+.bg_contenedorPlanetas div .bg_lineaJupiter{
+    width: 1px;
+    height: 29%;
+    background-color: #fff;
+    position: static;
+}
+.bg_contenedorPlanetas div .bg_lineaSaturno{
+    width: 1px;
+    height: 29%;
+    background-color: #fff;
+    position: static;
+}
+.bg_contenedorPlanetas div .bg_lineaUrano{
+    width: 1px;
+    height: 31%;
+    background-color: #fff;
+    position: static;
+}
+.bg_contenedorPlanetas div .bg_lineaNeptuno{
+    width: 1px;
+    height: 30%;
+    background-color: #fff;
+    position: static;
+}
+.bg_contenedorPlanetas div .bg_lineaNeptuno{
+    width: 1px;
+    height: 30%;
+    background-color: #fff;
+    position: static;
+}
+.bg_contenedorPlanetas div .bg_lineaPluton{
+    width: 1px;
+    height: 36%;
+    background-color: #fff;
+    position: static;
+}
+
+
+
+.divPlanetasAbajo{
+    display: flex;
+    justify-content: flex-end;
+}
+.bg_contenedorPlanetas div img{
+    cursor: pointer;
+}
+.bg_sol{
+    width: 20rem;
+    height: 20rem;
+    margin-top: 15rem;
+    position: absolute;
+}
+.bg_mercurio{
+    width: 6rem;
+    height: 6rem;
+}
+.bg_venus{
+    width: 5rem;
+    height: 5rem;
+}
+.bg_tierra{
+    width: 10rem;
+    height: 10rem;
+}
+.bg_marte{
+    width: 6rem;
+    height: 6rem;
+}
+.bg_jupiter{
+    width: 10rem;
+    height: 10rem;
+}
+.bg_saturno{
+    width: 14rem;
+    height: 6rem;
+}
+.bg_urano{
+    width: 7rem;
+    height: 7rem;
+}
+.bg_neptuno{
+    width: 7rem;
+    height: 7rem;
+}
+.bg_pluton{
+    width: 5rem;
+    height: 5rem;
+}
+
+
+
+.bg_contenedorPlanetas div .bg_infoSol{
+    width: 130px;
+    height: auto;
+    margin: 5px 0 0 0;
+    padding: 10px;
+    background-color: rgba(117, 84, 136, 0.5);
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+}
+.bg_contenedorPlanetas div .bg_infoMercurio{
+    width: 120px;
+    height: auto;
+    margin: 0 0 5px 0;
+    padding: 5px;
+    background-color: rgba(117, 84, 136, 0.5);
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+}
