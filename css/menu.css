@@ -1,0 +1,14 @@
+header img{
+    width: 150px;
+}
+li{
+    float: left;
+    list-style: none;
+    padding: 15px;
+}
+nav{
+    float: right;
+}
+a{
+    text-decoration: none;
+}
