@@ -1,0 +1,50 @@
+.astronomos{
+    display: flex;
+    margin-top: 5%;
+    justify-content:space-around;
+    
+}
+.astronomos1{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+.tales{
+    margin: 20%;
+}
+.boton{
+    background-color: #04BFAD;
+    color: white;
+    font-size: 100%;
+}
+.astronomos2{
+    width: 170px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+.astronomos3{
+    width: 200px;
+    height: 200px;
+    background-color: #D9D9D9;
+    margin-bottom: 20px;
+}
+.astronomos4{
+    width: 200px;
+    height: 200px;
+    background-color: #D9D9D9;
+    margin-bottom: 20px;
+}
+.astronomos5{
+    width: 200px;
+    height: 200px;
+    background-color: #D9D9D9;
+    margin-bottom: 20px;
+}
+.astronomosTexto{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    display: flex;
+    margin: 50px;
+}
